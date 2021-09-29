@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ### `yarn` or `npm i`
 
-Install all the dependencies;
+To install all the dependencies.
 
 ### `yarn start` or `npm start`
 
@@ -22,6 +22,6 @@ React, Redux and React Hooks.
 
 ### WORKING SYSTEM
 
-![](http://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif)
+![](hhttps://github.com/Daniel730/Simple-ToDo-App/blob/Master/public/working.gif)
 
 # Simple-ToDo-App
