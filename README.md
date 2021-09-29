@@ -20,6 +20,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 This ToDo app was developed for study reasons so I decided to implement my knowlege about
 React, Redux and React Hooks.
 
-### WORKING App
+### WORKING APP
 
 ![](https://github.com/Daniel730/Simple-ToDo-App/blob/Master/public/working.gif)
