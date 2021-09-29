@@ -22,6 +22,6 @@ React, Redux and React Hooks.
 
 ### WORKING SYSTEM
 
-![](hhttps://github.com/Daniel730/Simple-ToDo-App/blob/Master/public/working.gif)
+![](https://github.com/Daniel730/Simple-ToDo-App/blob/Master/public/working.gif)
 
 # Simple-ToDo-App
